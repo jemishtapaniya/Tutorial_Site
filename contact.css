@@ -1,0 +1,153 @@
+#us{
+    width: 95rem;
+}
+
+#main{
+    padding-top: 100px;
+}
+
+#mains{
+    display: flex;
+}
+
+#asso{
+    width: 8%;
+    margin-left: 7%;
+}
+
+#asso1{
+    width: 7%;
+    margin-left: 7%;
+}
+
+#Association{
+    margin-left: 5% ;
+    margin-top: 6rem;
+    list-style: none;
+    width: 25%;
+    height: 22rem;
+    background-color: rgba(0, 0, 0, 0.04);
+    border: solid white;
+}
+
+
+#support{
+    margin-left: 7% ;
+    margin-top: 6rem;
+    list-style: none;
+    width: 25%;
+    height: 22rem;
+    background-color: rgba(0, 0, 0, 0.04);
+    border: solid white;
+
+}
+
+#Sales{
+
+    margin-left: 7% ;
+    margin-top: 6rem;
+    list-style: none;
+    width: 25%;
+    height: 22rem;
+    background-color: rgba(0, 0, 0, 0.04);
+    border: solid white;
+
+
+}
+
+#llm{
+    margin-top: 4rem  ;
+}
+
+#tion{
+    padding: 1rem;
+    margin-left: 2rem;
+}
+
+#upp{
+    margin-top: -2rem;
+}
+
+#mail{
+    margin-left: 20%;
+    font-size: large;
+    text-decoration: none;
+    color: cadetblue;
+}
+
+#pho{
+    margin-top: 2rem;
+}
+
+#de{
+   margin-top: 15%; 
+   margin-left: 7%;
+    
+
+}
+
+#de :hover{
+    filter: drop-shadow(1px 1px 2px black);
+
+}
+
+#book{
+    height: 10%;
+    color: rgb(255, 255, 255);
+    background-color:#339e66ff ;
+    width: 150px;
+    height: 50px;
+}
+
+#we{
+    width: 95rem;
+    margin-top: 3%;
+    height: 350px;
+    background-color: #078282ff;
+}
+
+#want{
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+#at{
+    margin-top: -0.5rem;
+    font-size: 23px;
+}
+
+#see{
+    margin-top: 3rem;
+    margin-bottom: 2%;
+}
+
+#open{
+   
+    color: rgb(255, 255, 255);
+    background-color: #339e66ff;
+    border-color: #339e66ff;
+    width: 250px;
+    height: 50px;
+    
+}
+
+#open:hover{
+    filter: drop-shadow(4px 4px 2px black);
+
+}
+
+#brts{
+    margin-top: -1.5rem;
+    height: 60px;
+    background-color: hsl(204.55deg 35.48% 12.16%);
+}
+
+#kbc{
+    color: aliceblue;
+    font-size: x-large;
+    
+}
+
+#dabholi{
+    margin-top: -erm;
+}

@@ -1,0 +1,64 @@
+
+#f{
+    display: flex;
+    list-style: none;
+}
+#s{
+    display: flex;
+    list-style: none;
+}
+#cl{
+    width:400px;
+    height: 250px;
+    border-radius: 20px;
+   
+   
+}
+#f{
+    margin-left: 3%;
+}
+
+#head{
+    background-color: #078282FF;
+    
+}
+#container{
+    width: 95%;
+   
+}
+#links{
+   
+    margin-left: 5%;
+    
+}
+#cl:hover{
+    box-shadow: 3px 3px 3px 3px #339e66ff;
+    animation-name: ln;
+    animation-duration: 2s;
+}
+@keyframes ln{
+    0%{
+        box-shadow: 6px 6px 6px 6px #339e66ff;  
+    }
+}
+#mn{
+    margin-top: 2%;
+}
+#text{
+    text-shadow: 1px 1px rgb(206, 32, 32);
+}
+
+html{
+    scroll-behavior: smooth;
+}
+#text1{
+    
+         margin-top: 10%;
+         font-weight: bold;
+         font-size: x-large;
+}
+#head{
+    text-align: center;
+    
+}
+

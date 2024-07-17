@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+}
+#shtml{
+    justify-content: center;
+display: flex;
+text-decoration: none;
+color: rgb(0, 0, 0);
+margin-top: 12%;
+height: 30px;
+}
+#side :hover{
+    background-color: #078282FF;
+    width: 80%;
+    justify-content: center;
+    margin-left: 10%;
+    border-radius: 10px;
+    color:white;
+    
+}
+
+#side{
+   
+    margin-top: 3.6%;
+    background-color: #339e66ff;
+    z-index: 10;
+    overflow-x: 0;
+    width: 16%;
+    height:92%;
+    position:fixed;
+    border-radius: 5px;
+    box-shadow: 4px 4px black;
+    margin-left:0.0% ;
+}
+#head1{
+    padding-top: 5%;
+    margin-left: 18%;
+    font-size: 5cap;
+}
+#first{
+    width:75%;
+    margin-top: 2%;
+    margin-left: 18%;
+    padding-top: 2%;
+    background-color: rgb(51,158,102,0.7);
+    box-shadow: 2px 2px 2px 2px black;
+    border-radius: 10px;
+}
+#f1{
+           margin-left: 2%;
+           padding-bottom: 2%;
+}
+#head2{
+    margin-left: 20%;   
+    margin-top: 1%;
+
+}
+#one{
+    margin-left: 18%;
+    padding-left: 1%;
+    padding-top: 2%;
+    background-color: rgb(231,233,235,0.7);
+    border-radius: 10px;
+    color: black;
+    width:76%;
+}
+#ex1{
+    width:85%;
+    margin-left: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+#head2{
+    width: 75%;
+    height: 130px;
+    border-radius: 10px;
+}
+#quote{
+    color: black;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #95dbe5ff;
+    box-shadow: 4px 3px 3px 3px rgb(68, 106, 111);
+    width: 70%;
+    margin-top: 7%;
+    border-radius: 15px;
+    margin-left: 18%;
+    padding-left: 5%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    margin-bottom: 1%;
+    
+}
+
+/* ==================================================second===================================================== */
+
+#s1{
+    margin-left: 18%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#s2{
+    margin-top: 2%;
+    font-size: xx-large;
+    margin-left: 18%;
+}
+#s3{
+    margin-top: 1%;
+    margin-left: 18%;
+    list-style: square;
+}
+#s4{
+    margin-left: 20%;
+    margin-top: 1%;
+}
+#ex3{
+    margin-left: 18%;
+    width: 75%;
+}
+/* ====================================================================Third============================================== */
+#t1{
+    margin-left: 18%;
+}
+#t2{
+    font-size: large;
+    margin-left: 18%;
+    
+}
+#t3{
+    margin-left: 18%;
+}
+#t5{
+    margin-left: 20%;
+}
+#t6{
+    margin-left: 4%;
+    width: 90%;
+}
+#redf{
+    color:red;
+}
+jemish{
+     color: red;
+}
+#footer{
+    width:83.8%;
+    margin-left: 16.2%;
+}
